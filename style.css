@@ -173,7 +173,6 @@ img.center {
     color: #888;
     border: 2px solid #888;
     cursor: not-allowed;
-    margin: -4px auto;
 }
 .button:disabled {
     background-color: #ddd;
