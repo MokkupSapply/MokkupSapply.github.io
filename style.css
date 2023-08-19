@@ -145,7 +145,8 @@ img.center {
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size: 20pt;
+    font-size: 24pt;
+    margin: -2px auto;
     cursor: pointer;
 }
 .green_button {
@@ -157,13 +158,14 @@ img.center {
     border: none;
     border-radius: 8pt;
     color: white;
-    padding: 9pt;
+    padding: 8pt;
     width: 10%;
     min-width: 100pt;
     text-align: center;
     text-decoration: none;
     display: block;
     font-size: 18pt;
+    margin: -2px auto;
     cursor: pointer;
 }
 .small_button_off {
@@ -171,6 +173,7 @@ img.center {
     color: #888;
     border: 2px solid #888;
     cursor: not-allowed;
+    margin: -4px auto;
 }
 .button:disabled {
     background-color: #ddd;
@@ -184,7 +187,8 @@ img.center {
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size: 20pt;
+    font-size: 24pt;
+    margin: -2px auto;
     cursor: not-allowed;
 }
 div.text-wrapper {
