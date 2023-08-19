@@ -54,5 +54,17 @@ questions =  [
     {"id": 52, "question": "Putting checks and balances in place is useful to assure that no one figure has all the power.", "effects": {"auth":-1}},
     {"id": 53, "question": "Taxation causes more inequality than the market by taking away wages from hard-working people.", "effects": {"right":1}},
     {"id": 54, "question": "Someone's labour should matter more than their status.", "effects": {"right":1, "auth":-1}},
-    {"id": 55, "question": "Media products that contained frowned-upon language should be revised to be more progressive, even if it makes them unrealistic.", "effects": {"prog":1}}
+    {"id": 55, "question": "Media products that contained frowned-upon language should be revised to be more progressive, even if it makes them unrealistic.", "effects": {"prog":1}},
+    {"id": 56, "question": "National Socialism was more communist than capitalist.", "effects": {"right":1}},
+    {"id": 57, "question": "Fascism is to capitalism what communism is to socialism.", "effects": {"right":-1}},
+    {"id": 58, "question": "A fully unregulated market will always lead to corporatocracy and hegemony.", "effects": {"right":-1}},
+    {"id": 59, "question": "I should be able to work unpaid extra time if I want to.", "effects": {"auth":-1}},
+    {"id": 60, "question": "The government should be given a meritocratic wage system to ensure they don't fuck everything up.", "effects": {"auth":-1}},
+    {"id": 61, "question": "Any \"democracy\" is a dictatorship if the government has no accountability for its actions.", "effects": {"auth":-1}},
+    {"id": 62, "question": "Democracy is no more than a dictatorship of majority and should be removed, not reformed.", "effects": {"auth":1}},
+    {"id": 63, "question": "Those who revised communism betrayed the revolution and should've been executed.", "effects": {"right":-1}},
+    {"id": 64, "question": "Every company should make a different thing to ensure we have enough of everything. This should be enforced by the government.", "effects": {"right":-1}},
+    {"id": 65, "question": "Unitary governments are a dictatorship of the elitist parliamentaries.", "effects": {"auth":-1}},
+    {"id": 66, "question": "The state needs to permanently disappear.", "effects": {"auth":-1.5}},
+    {"id": 67, "question": "Anarchism will eventually turn into a dictatorship through tribal-esque warfare.", "effects": {"auth":1}}
 ];
