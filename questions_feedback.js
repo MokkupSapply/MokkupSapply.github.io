@@ -269,8 +269,13 @@ questions = [
         },
         {
         "label": "Atheist",
-        "color": "#4c96af",
+        "color": "#6db8d1",
         "effect": "Atheist"
+        },
+        {
+        "label": "Hinduism",
+        "color": "#f4c430",
+        "effect": "Hinduism"
         },
         {
         "label": "Christianity",
