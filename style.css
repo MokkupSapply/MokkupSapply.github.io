@@ -146,7 +146,6 @@ img.center {
     text-decoration: none;
     display: block;
     font-size: 20pt;
-    margin: -2px auto;
     cursor: pointer;
 }
 .green_button {
@@ -165,7 +164,6 @@ img.center {
     text-decoration: none;
     display: block;
     font-size: 18pt;
-    margin: -2px auto;
     cursor: pointer;
 }
 .small_button_off {
