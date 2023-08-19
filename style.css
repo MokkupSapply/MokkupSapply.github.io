@@ -145,7 +145,7 @@ img.center {
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size: 24pt;
+    font-size: 20pt;
     margin: -2px auto;
     cursor: pointer;
 }
@@ -158,7 +158,7 @@ img.center {
     border: none;
     border-radius: 8pt;
     color: white;
-    padding: 8pt;
+    padding: 9pt;
     width: 10%;
     min-width: 100pt;
     text-align: center;
@@ -187,7 +187,7 @@ img.center {
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size: 24pt;
+    font-size: 20pt;
     margin: -2px auto;
     cursor: not-allowed;
 }
