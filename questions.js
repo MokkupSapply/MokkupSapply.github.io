@@ -66,5 +66,12 @@ questions =  [
     {"id": 64, "question": "Every company should make a different thing to ensure we have enough of everything. This should be enforced by the government.", "effects": {"right":-1}},
     {"id": 65, "question": "Unitary governments are a dictatorship of the elitist parliamentaries.", "effects": {"auth":-1}},
     {"id": 66, "question": "The state needs to permanently disappear.", "effects": {"auth":-1.5}},
-    {"id": 67, "question": "Anarchism will eventually turn into a dictatorship through tribal-esque warfare.", "effects": {"auth":1}}
+    {"id": 67, "question": "Anarchism will eventually turn into a dictatorship through tribal-esque warfare.", "effects": {"auth":1}},
+    {"id": 68, "question": "Genocide is based!!", "effects": {"auth":1}},
+    {"id": 69, "question": "I don’t have anything against employers existing, but they must be elected by the workers within the workplace and they are subject to the state via a state-owned labor union.", "effects": {"right":-1, "auth":1}},
+    {"id": 70, "question": "There should be one trade-union and it should be loyal to the state.", "effects": {"auth":1, "right":-1}},
+    {"id": 71, "question": "I'm not pro-genocide but people should stay with their kind.", "effects": {"prog":-1}},
+    {"id": 72, "question": "The monarchies in all countries should be absolute.", "effects": {"auth":1}},
+    {"id": 73, "question": "Ayn Rand was the best philosopher in history.", "effects": {"auth":-1.75,"right":2.25}},
+    {"id": 74, "question": "China's national trade union which allows for democratic elections of managers comes close to what I want.", "effects": {"auth":1,"right":-1}}
 ];
