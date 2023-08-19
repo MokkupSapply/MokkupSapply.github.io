@@ -1,7 +1,7 @@
 questions =  [
     {"id": 0, "question": "Freedom of business is the best practical way a society can prosper.", "effects": {"right": 1}},
     {"id": 1, "question": "Charity is a better way of helping those in need than social welfare.", "effects": {"right": 1}},
-    {"id": 2, "question": "Wages are always fair, as employers know best what a worker's labour is worth.", "effects": {"right": 1}},
+    {"id": 2, "question": "Employers never know what their employees labour is worth.", "effects": {"right": -1}},
     {"id": 3, "question": "It is \"human nature\" to be greedy.", "effects": {"right": 1}},
     {"id": 4, "question": "\"Exploitation\" is an outdated term, as the struggles of 1800s capitalism don't exist anymore.", "effects": {"right": 1}},
     {"id": 5, "question": "Communism is an ideal that can never work in practice.", "effects": {"right": 1}},
@@ -44,5 +44,15 @@ questions =  [
     {"id": 42, "question": "Victimless crimes should still be punished.", "effects": {"prog": -1}},
     {"id": 43, "question": "One cannot be moral without religion.", "effects": {"prog": -1}},
     {"id": 44, "question": "Parents should hold absolute power over their children, as they are older and more experienced.", "effects": {"prog": -1}},
-    {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
+    {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}},
+    {"id": 46, "question": "Governments subsidising the market makes more inequality than private corporations.", "effects": {"right": 1, "auth": -1}},
+    {"id": 47, "question": "Equal representation and opportunity for all citizens is the cornerstone of a just society.", "effects": {"prog": 1, "auth":-1}},
+    {"id": 48, "question": "The right to bear arms should be balanced with responsible gun control measures.", "effects": {"auth":0.5}},
+    {"id": 49, "question": "If something is too expensive, people won't buy it.", "effects": {"right":1}},
+    {"id": 50, "question": "Intervention in other countries for our own interests is totally fair.", "effects": {"auth":1}},
+    {"id": 51, "question": "There should be no bicameral system - only monocameral.", "effects": {"auth":1}},
+    {"id": 52, "question": "Putting checks and balances in place is useful to assure that no one figure has all the power.", "effects": {"auth":-1}},
+    {"id": 53, "question": "Taxation causes more inequality than the market by taking away wages from hard-working people.", "effects": {"right":1}},
+    {"id": 54, "question": "Someone's labour should matter more than their status.", "effects": {"right":1, "auth":-1}},
+    {"id": 55, "question": "Media products that contained frowned-upon language should be revised to be more progressive, even if it makes them unrealistic.", "effects": {"prog":1}}
 ];
